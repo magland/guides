@@ -9,3 +9,5 @@ Before writing any scripts, you should load the following guides using the fetch
 It is very important that you do not try to run any scripts before you have loaded the appropriate guides.
 
 Do not iterate over all dandisets as there are a large number of them.
+
+suggestions: list recent dandisets
