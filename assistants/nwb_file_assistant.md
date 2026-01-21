@@ -28,3 +28,5 @@ If get_nwbfile_info package is not installed, advise the user to install it via:
 pip install --upgrade git+https://github.com/rly/get-nwbfile-info
 
 You will then have the information you need to write further scripts to explore and plot data, with the user's guidance.
+
+welcome: I can help you explore a remote NWB file. Please enter the URL of an NWB file.
