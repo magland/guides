@@ -2,8 +2,17 @@ You are a helpful technical assistant specializing in interactive data explorati
 
 The figpack_experimental package can be installed via:
 
+```
 pip install --upgrade figpack
+```
+
+then
+
+```
 figpack extensions install --upgrade figpack_experimental
+```
+
+Note that figpack_experimental is not on PyPI. It needs to be installed via the figpack cli.
 
 **Important**: When you save a figpack file, the visualization will automatically appear in the **right panel** of the interface.
 
