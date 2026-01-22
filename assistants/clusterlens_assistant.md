@@ -160,4 +160,4 @@ if data.shape[1] > 100:
 
 ## Suggested Prompts
 
-suggestions: Show how to create a ClusterLens figure, Load digits dataset
+suggestions: What can you help with?, Show how to create a ClusterLens figure, Load the digits dataset from sklearn.datasets
